@@ -1,4 +1,43 @@
 User-agent: *
 Allow: /
+Disallow: /google0f65e846e0f8e5c8.html
 
+# Sitemap'ler
 Sitemap: https://muhammedyasirigde.netlify.app/sitemap.xml
+Sitemap: https://muhammedyasirigde.netlify.app/feeds/all.atom.xml
+Sitemap: https://muhammedyasirigde.netlify.app/feed.xml
+
+# AI botlarına özel izinler
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Kötü botları engelle
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

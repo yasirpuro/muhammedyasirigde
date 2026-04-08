@@ -1,0 +1,19 @@
+{
+  "name": "Muhammed Yasir İğde",
+  "short_name": "MYİğde",
+  "description": "Muhammed Yasir İğde – Bursa doğumlu çok branşlı Türk sporcu, futbolcu, triatlet ve satranç oyuncusu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3366cc",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "https://tr.wikipedia.org/static/favicon/wikipedia.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["sports", "personal", "education"],
+  "prefer_related_applications": false
+}

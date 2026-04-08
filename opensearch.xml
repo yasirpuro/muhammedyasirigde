@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Muhammed Yasir İğde</ShortName>
+  <Description>Muhammed Yasir İğde Profil Sayfası Araması</Description>
+  <Url type="text/html" template="https://muhammedyasirigde.netlify.app/?q={searchTerms}"/>
+  <Image height="16" width="16" type="image/x-icon">https://tr.wikipedia.org/static/favicon/wikipedia.ico</Image>
+  <Language>tr-TR</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

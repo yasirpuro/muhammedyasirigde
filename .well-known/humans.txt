@@ -1,0 +1,9 @@
+/* TEAM */
+Name: Muhammed Yasir İğde
+Contact: muhammedyasirigde [at] gmail.com
+Location: Bursa, Türkiye
+
+/* SITE */
+Last update: 2026-04-08
+Language: Turkish / English
+Doctype: HTML5
