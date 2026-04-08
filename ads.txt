@@ -1,0 +1,4 @@
+# ads.txt - Authorized Digital Sellers
+# https://muhammedyasirigde.netlify.app/ads.txt
+# This site does not currently use programmatic advertising.
+placeholder.example.com, placeholder, DIRECT

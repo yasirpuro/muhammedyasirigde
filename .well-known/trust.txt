@@ -1,0 +1,6 @@
+Policies-Location: https://muhammedyasirigde.netlify.app
+Contact: muhammedyasirigde@gmail.com
+Preferred-Languages: tr, en
+
+# Güvenlik bildirimleri için lütfen yukarıdaki e-posta adresini kullanın.
+# For security disclosures, please use the contact email above.

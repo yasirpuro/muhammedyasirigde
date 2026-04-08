@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr">
+  <title>Muhammed Yasir İğde</title>
+  <subtitle>Sporcu, Vizyon Sahibi, Yeni Nesil Atlet</subtitle>
+  <link href="https://muhammedyasirigde.netlify.app" rel="alternate"/>
+  <link href="https://muhammedyasirigde.netlify.app/feeds/all.atom.xml" rel="self"/>
+  <id>https://muhammedyasirigde.netlify.app/</id>
+  <updated>2026-04-08T15:00:00Z</updated>
+  <author>
+    <name>Muhammed Yasir İğde</name>
+    <uri>https://muhammedyasirigde.netlify.app</uri>
+  </author>
+  <entry>
+    <title>Profil: Muhammed Yasir İğde</title>
+    <link href="https://muhammedyasirigde.netlify.app"/>
+    <id>https://muhammedyasirigde.netlify.app/</id>
+    <updated>2026-04-05T12:00:00Z</updated>
+    <summary>Muhammed Yasir İğde – Bursa doğumlu triatlet, yüzücü ve vizyon sahibi genç sporcu. Bocconi Üniversitesi aday öğrencisi, ETİ Sosyal Bilimler Lisesi 10. sınıf öğrencisi.</summary>
+  </entry>
+  <entry>
+    <title>Spor Kariyeri ve Başarılar</title>
+    <link href="https://muhammedyasirigde.netlify.app/#kariyer"/>
+    <id>https://muhammedyasirigde.netlify.app/#kariyer</id>
+    <updated>2026-04-05T12:00:00Z</updated>
+    <summary>Türkiye Okul Sporları Yüzme Şampiyonası'nda elde ettiği başarılar ve triatlon antrenman süreci.</summary>
+  </entry>
+  <entry>
+    <title>Akademik Profil ve Hedefler</title>
+    <link href="https://muhammedyasirigde.netlify.app/#egitim"/>
+    <id>https://muhammedyasirigde.netlify.app/#egitim</id>
+    <updated>2026-04-05T12:00:00Z</updated>
+    <summary>Matematik, fizik ve ekonomi alanlarındaki akademik başarıları ve Bocconi Üniversitesi hedefi.</summary>
+  </entry>
+</feed>

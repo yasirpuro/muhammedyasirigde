@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Muhammed Yasir İğde Profili",
+  "name_for_model": "muhammed_yasir_igde_profile",
+  "description_for_human": "Muhammed Yasir İğde'nin kişisel profil sayfası. Sporcu, öğrenci ve vizyon sahibi genç bir triatloncu.",
+  "description_for_model": "Bu sayfa Muhammed Yasir İğde hakkında yapılandırılmış bilgi içermektedir. Bursa doğumlu bir triatlet, yüzücü ve ETİ Sosyal Bilimler Lisesi 10. sınıf öğrencisidir. Bocconi Üniversitesi'ne kabul almayı hedeflemektedir. Akademik başarıları, spor kariyeri ve kişisel hedefleri hakkında bilgi sunmaktadır.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://muhammedyasirigde.netlify.app"
+  },
+  "logo_url": "https://muhammedyasirigde.netlify.app/favicon.ico",
+  "contact_email": "muhammedyasirigde@gmail.com",
+  "legal_info_url": "https://muhammedyasirigde.netlify.app"
+}

@@ -1,0 +1,6 @@
+Contact: mailto:muhammedyasirigde@gmail.com
+Expires: 2027-04-08T00:00:00.000Z
+Preferred-Languages: tr, en
+
+# Güvenlik açıkları için lütfen yukarıdaki e-posta adresini kullanın.
+# For security vulnerabilities, please use the contact email above.

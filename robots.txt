@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://muhammedyasirigde.netlify.app/sitemap.xml
-Sitemap: https://muhammedyasirigde.netlify.app/sitemap.xml

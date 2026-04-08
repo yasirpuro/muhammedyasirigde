@@ -1,0 +1,7 @@
+# /feed/ → /feed.xml yönlendirmesi
+/feed/          /feed.xml       301
+
+# /feed.xml variantları
+/feed           /feed.xml       301
+/rss.xml        /feed.xml       301
+/rss/           /feed.xml       301

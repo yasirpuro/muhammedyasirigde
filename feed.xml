@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammed Yasir İğde</title>
+    <link>https://muhammedyasirigde.netlify.app</link>
+    <description>Muhammed Yasir İğde – Sporcu, Vizyon Sahibi, Yeni Nesil Atlet. Bursa'dan yetişen genç triatlet ve öğrencinin profili.</description>
+    <language>tr-TR</language>
+    <lastBuildDate>Tue, 08 Apr 2026 15:00:00 +0000</lastBuildDate>
+    <atom:link href="https://muhammedyasirigde.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://muhammedyasirigde.netlify.app/favicon.ico</url>
+      <title>Muhammed Yasir İğde</title>
+      <link>https://muhammedyasirigde.netlify.app</link>
+    </image>
+    <item>
+      <title>Profil: Muhammed Yasir İğde</title>
+      <link>https://muhammedyasirigde.netlify.app</link>
+      <guid isPermaLink="true">https://muhammedyasirigde.netlify.app</guid>
+      <pubDate>Sat, 05 Apr 2026 12:00:00 +0000</pubDate>
+      <description>Muhammed Yasir İğde – Bursa doğumlu triatlet, yüzücü ve vizyon sahibi genç sporcu. Bocconi Üniversitesi aday öğrencisi, ETİ Sosyal Bilimler Lisesi 10. sınıf öğrencisi.</description>
+    </item>
+    <item>
+      <title>Spor Kariyeri ve Başarılar</title>
+      <link>https://muhammedyasirigde.netlify.app/#kariyer</link>
+      <guid isPermaLink="true">https://muhammedyasirigde.netlify.app/#kariyer</guid>
+      <pubDate>Sat, 05 Apr 2026 12:00:00 +0000</pubDate>
+      <description>Türkiye Okul Sporları Yüzme Şampiyonası'nda elde ettiği başarılar ve triatlon antrenman süreci.</description>
+    </item>
+    <item>
+      <title>Akademik Profil ve Hedefler</title>
+      <link>https://muhammedyasirigde.netlify.app/#egitim</link>
+      <guid isPermaLink="true">https://muhammedyasirigde.netlify.app/#egitim</guid>
+      <pubDate>Sat, 05 Apr 2026 12:00:00 +0000</pubDate>
+      <description>Matematik, fizik ve ekonomi alanlarındaki akademik başarıları ve Bocconi Üniversitesi hedefi.</description>
+    </item>
+  </channel>
+</rss>
