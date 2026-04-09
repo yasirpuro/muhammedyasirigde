@@ -3,9 +3,9 @@ Allow: /
 Disallow: /google0f65e846e0f8e5c8.html
 
 # Sitemap'ler
-Sitemap: https://muhammedyasirigde.netlify.app/sitemap.xml
-Sitemap: https://muhammedyasirigde.netlify.app/feeds/all.atom.xml
-Sitemap: https://muhammedyasirigde.netlify.app/feed.xml
+Sitemap: https://muhammedyasirigde.onrender.com/sitemap.xml
+Sitemap: https://muhammedyasirigde.onrender.com/feeds/all.atom.xml
+Sitemap: https://muhammedyasirigde.onrender.com/feed.xml
 
 # AI botlarına özel izinler
 User-agent: GPTBot
